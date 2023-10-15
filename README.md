@@ -1,9 +1,25 @@
+<p align="center">
+  <img src="https://gif-server-exploit1337.vercel.app/exploit.gif" alt="Exploit GIF">
+</p>
+
+
+
+<h1 align="center">Hi, I'm <a href="https://github.com/exploitt1337">Exploit</a>!</h1>
+<h1 align="center">Reincarnated on earth as a programmer</h1>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1163083069612380160/1163095905663193108/giphy.gif?ex=653e5479&is=652bdf79&hm=112d7cfd201443c0341767d64dd2dc256d67dc478346b751d101a67a45c0e1b3&" alt="Volks">
+  <strong><a href="https://github.com/exploitt1337">Website</a></strong> |
+  <strong><a href="https://tryhackme.com/p/requests">TryHackMe</a></strong> |
+  <strong><a href="https://discord.com/users/215650422633791489">Discord</a></strong> |
+  <strong><a href="https://t.me/exploitxd">Telegram</a></strong> |
+  <strong><a href="https://steamcommunity.com/id/risinplayz">Steam</a></strong>
 </p>
-<h5 align="center">Anything That You Can Imagine Is Real.</h5>
+
+<div align="center">
+  <a href="https://discord.com/users/215650422633791489">
+    <img src="https://lanyard.cnrad.dev/api/215650422633791489?showDisplayName=true&idleMessage=idling..." alt="Discord Presence" />
+  </a>
+</div>
 
 
-
-<h1 align="center">Hello, I'm <a href="https://discord.com/users/1031106557691301948">Volksgeist</a>!</h1>
+<p align="center">⚡ I'm currently working on Game Development, Discord, Blockchain, AI & ML and CTFS </p>
