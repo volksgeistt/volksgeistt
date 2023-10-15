@@ -3,3 +3,5 @@
 </p>
 <h1 align="center">Hello, I'm Volksgeist</h1>
 <h1 align="center">A Tech-Enthusiast & Developer</h1>
+<img src="![image](https://github.com/volksgeistt/volksgeistt/assets/131983323/39e9a37d-6e60-4e55-9560-42e372022e16)" align="center">
+
