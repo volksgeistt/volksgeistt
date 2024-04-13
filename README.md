@@ -3,7 +3,7 @@
 
 ---
 ```diff
-- Anything that you imagine is real.
-- Check my repos and drop a star if you like them.
-- Inactive these days.
+- Anything that you can imagine, is real.!
+- Skills @ Python / C
+- Little Inactive These Days
 ```
