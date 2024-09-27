@@ -1,10 +1,9 @@
 ```lua
-while alive do
-  learn()
-  grow()
-  contribute()
+local function endLifeProcess()
+    return coroutine.create(function()
+        lifeProcess:endAsync("volksgeistt") -- I'm Done Bruh
+    end)
 end
-
 ```
 ----------
 ```diff
