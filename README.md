@@ -14,4 +14,4 @@ end
 ----------
 ## Contact Me
 - Mail @ <a href="mailto:unrealvolksgeist@gmail.com">unrealvolksgeist@gmail.com</a>
-- Socials @ [volksgeistt.tech](https://volksgeistt.tech)
+- Socials @ [volksgeistt.xyz](https://volksgeistt.xyz)
