@@ -1,7 +1,7 @@
 ```lua
 local function endLifeProcess()
     return coroutine.create(function()
-        lifeProcess:endAsync("volksgeistt") -- I'm Done Bruh
+        lifeProcess:endAsync("volksgeistt") -- wondering if this shit is real? I can't take it anymore :3
     end)
 end
 ```
