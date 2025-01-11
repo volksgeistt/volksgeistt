@@ -1,3 +1,7 @@
+<p align = "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=@volksgeistt&textBg=false&fontAlign=50"/>
+</p>
+
 ```lua
 local function endLifeProcess()
     return coroutine.create(function()
