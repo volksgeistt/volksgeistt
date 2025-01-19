@@ -19,3 +19,6 @@ end
 ## Contact Me
 - Mail @ <a href="mailto:unrealvolksgeist@gmail.com">unrealvolksgeist@gmail.com</a>
 - Socials @ [volksgeistt.xyz](https://volksgeistt.xyz)
+----------
+> [!CAUTION]
+> Be aware of impersonators.
