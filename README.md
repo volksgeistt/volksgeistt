@@ -21,4 +21,4 @@ end
 - Socials @ [volksgeistt.xyz](https://volksgeistt.xyz)
 ----------
 > [!CAUTION]
-> Be aware of impersonators.
+> Be aware of impersonators. This is the only GitHub profile I use.
