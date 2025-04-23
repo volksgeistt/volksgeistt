@@ -1,6 +1,12 @@
 <p align = "center">
     <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hey,%20I'm%20Ujjawal&desc=Intermediate%20Backend%20Developer&fontAlign=50&fontAlignY=43&section=header"/>
 </p>
+----------
+
+### Tech Stack
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=py,js,lua,c,html,css"/>
+</p>
 
 ----------
 ```lua
