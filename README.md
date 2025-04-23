@@ -4,7 +4,6 @@
 
 ----------
 
-### Tech Stack
 <p align="center">
     <img src="https://skillicons.dev/icons?i=py,js,lua,c,html,css"/>
 </p>
