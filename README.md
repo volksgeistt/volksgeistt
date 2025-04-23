@@ -3,9 +3,9 @@
 </p>
 
 ----------
-
+<h3 align="center"> Tech Stack</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,js,lua,c,html,css"/>
+    <img src="https://skillicons.dev/icons?i=py,js,lua,c,html,css,visualstudio,discord,netlify,vercel,git,unreal,mongo,mysql"/>
 </p>
 
 ----------
