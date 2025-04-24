@@ -22,12 +22,10 @@ end
 - Skills @ Python / C / Lua / (JS)
 ```
 ----------
-![github-user-contribution](https://github.com/user-attachments/assets/532b9fec-be2c-4358-9f6c-4cf75eaf189b)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/532b9fec-be2c-4358-9f6c-4cf75eaf189b" width="100%"/>
+</div>
 
-## Contact Me
-- Mail @ <a href="mailto:unrealvolksgeist@gmail.com">unrealvolksgeist@gmail.com</a>
-- Socials @ [volksgeistt.xyz](https://volksgeistt.xyz)
-- 
 ----------
 > [!CAUTION]
 > Be aware of impersonators. This is the only GitHub profile I use..
