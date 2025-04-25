@@ -27,7 +27,7 @@ end
 </div>
 ----------
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=volksgeistt&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="volksgeistt's GitHub Stats" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=volksgeistt&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="volksgeistt's GitHub Stats" />
 ----------
 > [!CAUTION]
 > Be aware of impersonators. This is the only GitHub profile I use..
