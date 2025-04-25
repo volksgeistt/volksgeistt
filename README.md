@@ -25,9 +25,12 @@ end
 <div align="center">
   <img src="https://github.com/user-attachments/assets/532b9fec-be2c-4358-9f6c-4cf75eaf189b" width="100%"/>
 </div>
+
 ----------
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=volksgeistt&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="volksgeistt's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api?username=volksgeistt&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="volksgeistt's GitHub Stats" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=volksgeistt&theme=dark&show_icons=true&hide_border=true&layout=compact" width="100%"/>
+</div>
+
 ----------
 > [!CAUTION]
 > Be aware of impersonators. This is the only GitHub profile I use..
