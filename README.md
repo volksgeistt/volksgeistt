@@ -28,7 +28,7 @@ end
 
 ----------
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=volksgeistt&theme=dark&show_icons=true&hide_border=true&layout=compact" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=volksgeistt&theme=dark&show_icons=true&hide_border=true&layout=compact" width="60%"/>
 </div>
 
 ----------
