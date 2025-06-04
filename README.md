@@ -5,7 +5,11 @@
 ----------
 <h3 align="center"> Tech Stack</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,js,lua,c,html,css,visualstudio,discord,netlify,vercel,git,unreal,mongo,mysql"/>
+    <img src="https://skillicons.dev/icons?i=py,js,lua,c,html,css,visualstudio,discord,netlify,vercel"/>
+</p>
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,unreal,mongo,mysql,arduino,kali,obsidian,powershell,pycharm"/>
 </p>
 
 ----------
@@ -24,11 +28,6 @@ end
 ----------
 <div align="center">
   <img src="https://github.com/user-attachments/assets/532b9fec-be2c-4358-9f6c-4cf75eaf189b" width="100%"/>
-</div>
-
-----------
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=volksgeistt&theme=dark&show_icons=true&hide_border=true&layout=compact" width="60%"/>
 </div>
 
 ----------
