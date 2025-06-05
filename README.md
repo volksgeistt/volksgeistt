@@ -12,6 +12,7 @@
     <img src="https://skillicons.dev/icons?i=git,github,unreal,mongo,mysql,arduino,kali,obsidian,powershell,pycharm"/>
 </p>
 
+
 ----------
 ```lua
 local function endLifeProcess()
@@ -25,6 +26,9 @@ end
   <img src="https://github.com/user-attachments/assets/532b9fec-be2c-4358-9f6c-4cf75eaf189b" width="100%"/>
 </div>
 
-----------
-> [!CAUTION]
-> Be aware of impersonators. This is the only GitHub profile I use..
+---
+<div align="center">
+    <a href="https://discord.com/users/1181256087081603116">
+        <img src="https://lanyard.cnrad.dev/api/1181256087081603116?hideTimestamp=true&theme=dark&bg=181818&hideActivity=true" alt="Discord Status"/>
+    </a>
+</div>
