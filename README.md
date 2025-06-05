@@ -21,11 +21,6 @@ local function endLifeProcess()
 end
 ```
 ----------
-```diff
-+ Anything that you can imagine, is real.!
-- Skills @ Python / C / Lua / (JS)
-```
-----------
 <div align="center">
   <img src="https://github.com/user-attachments/assets/532b9fec-be2c-4358-9f6c-4cf75eaf189b" width="100%"/>
 </div>
